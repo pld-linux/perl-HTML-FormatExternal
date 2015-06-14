@@ -7,12 +7,12 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	HTML::FormatExternal - HTML to text formatting using external programs
 Name:		perl-HTML-FormatExternal
-Version:	22
+Version:	24
 Release:	1
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/HTML/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	d8db1ab6c3876d0633bbf22008459b42
+# Source0-md5:	19efcf68833515878f8ed0e4feb4c25b
 URL:		http://search.cpan.org/dist/HTML-FormatExternal/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
