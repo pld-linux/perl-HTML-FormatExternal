@@ -4,7 +4,6 @@
 #
 %define		pdir	HTML
 %define		pnam	FormatExternal
-%include	/usr/lib/rpm/macros.perl
 Summary:	HTML::FormatExternal - HTML to text formatting using external programs
 Summary(pl.UTF-8):	HTML::FormatExternal - formatowanie HTML-a do tekstu przy użyciu programów zewnętrznych
 Name:		perl-HTML-FormatExternal
