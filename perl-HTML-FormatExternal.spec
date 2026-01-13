@@ -8,7 +8,7 @@ Summary:	HTML::FormatExternal - HTML to text formatting using external programs
 Summary(pl.UTF-8):	HTML::FormatExternal - formatowanie HTML-a do tekstu przy użyciu programów zewnętrznych
 Name:		perl-HTML-FormatExternal
 Version:	26
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/HTML/%{pdir}-%{pnam}-%{version}.tar.gz
